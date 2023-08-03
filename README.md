@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-I4PiUqkaCH](https://www.frontendmentor.io/solutions/results-summary-component-I4PiUqkaCH)
-- Live Site URL: [https://lucassilvaaraujo.github.io/results-summary-component-main/](https://lucassilvaaraujo.github.io/results-summary-component-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-lLDnRp1O-H](https://www.frontendmentor.io/solutions/nft-preview-card-component-lLDnRp1O-H)
+- Live Site URL: [https://lucassilvaaraujo.github.io/nft-preview-card-component-main/](https://lucassilvaaraujo.github.io/nft-preview-card-component-main/)
 
 ## My process
 
